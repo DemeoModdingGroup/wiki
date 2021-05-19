@@ -28,5 +28,9 @@ just_the_docs:
   collections:
     guides:
       name: Guides
+      files:
+        - guides.md
     references:
       name: References
+      files:
+        - references.md
