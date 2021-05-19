@@ -7,8 +7,8 @@ nav:
   - Home:
     - Demeo Modding Wiki: index.md
   - Modders Guide:
-    - Getting Started: modders-guide/getting-started/index.md
-    - References: modders-guide/references/index.md
+    - Getting Started: modders-guide/getting-started.md
+    - References: modders-guide/references.md
 
 theme:
   name: material
