@@ -16,3 +16,19 @@ aux_links:
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
+
+collections:
+  # Define a collection named "guides", its documents reside in the "_guides" directory
+  guides:
+    permalink: "/:collection/:path/"
+    output: true
+  references:
+    permalink: ":collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    guides:
+      name: Guides
+    references:
+      name: References

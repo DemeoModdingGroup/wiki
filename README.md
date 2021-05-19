@@ -1,1 +1,1 @@
-# DemeoModdingWiki
+# Demeo Modding Wiki
