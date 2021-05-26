@@ -1,7 +1,7 @@
 site_name: Demeo Modding Wiki
-site_url: https://joezwet.github.io/DemeoModdingWiki/
-repo_url: https://github.com/JoeZwet/DemeoModdingWiki
-repo_name: JoeZwet/DemeoModdingWiki
+site_url: https://demeomoddinggroup.github.io/wiki/
+repo_url: https://github.com/DemeoModdingGroup/wiki/
+repo_name: DemeoModdingGroup/wiki
 
 nav:
   - Home:
@@ -65,8 +65,8 @@ markdown_extensions:
       repo_url_shorthand: true
       social_url_shorthand: true
       social_url_shortener: true
-      user: JoeZwet
-      repo: DemeoModdingWiki
+      user: DemeoModdingGroup
+      repo: wiki
       normalize_issue_symbols: true
   - pymdownx.tilde:
   - pymdownx.caret:
