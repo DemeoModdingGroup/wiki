@@ -83,10 +83,6 @@ markdown_extensions:
   - pymdownx.arithmatex:
   - pymdownx.mark:
   - pymdownx.striphtml:
-  - pymdownx.snippets:
-      base_path:
-      - _snippets
-      check_paths: true
   - pymdownx.keys:
       separator: "\uff0b"
   - pymdownx.details:
