@@ -6,6 +6,7 @@ repo_name: DemeoModdingGroup/wiki
 nav:
   - Home:
     - Demeo Modding Wiki: index.md
+    - Installing Melon Loader: melon-install.md
   - Modders Guide:
     - Getting Started: modders-guide/getting-started.md
     - References: modders-guide/references.md
