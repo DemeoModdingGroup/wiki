@@ -26,3 +26,24 @@ Add the following section to your `AssemblyInfo.cs` file:
 [assembly: MelonLoader.MelonGame("Resolution Games", "Demeo")]
 [assembly: MelonPlatform(MelonPlatformAttribute.CompatiblePlatforms.WINDOWS_X64)]
 ```
+
+## Dependency Standards
+When referencing dependencies, there are several things that you should and should not do.
+
+**:material-check-bold: Should**:
+1. Use `$(DemeoDir)`:
+    Add a `<project>.csproj.user` file to your project directory with the following xml:
+    ```xml
+    <!-- @todo: write this -->
+    ```
+
+    Now you can reference the game directory in your `.csproj` files like so:
+    ```xml
+    <Reference Include="MelonLoader">
+      <HintPath>$(DemeoDir)\MelonLoader\MelonLoader.dll</HintPath>
+    </Reference>
+    ```
+
+**:material-close: Should Not**:
+1. Include `Assembly-CSharp.dll` in your public repo.
+    Doing so would violate the Demeo EULA and could result in restrictions on the entire modding community.
