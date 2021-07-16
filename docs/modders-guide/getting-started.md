@@ -30,7 +30,7 @@ Add the following section to your `AssemblyInfo.cs` file:
 ## Dependency Standards
 When referencing dependencies, there are several things that you should and should not do.
 
-**:material-check-bold: Should**:
+**:material-check-bold: Should**:\
   1. Use `$(DemeoDir)`:\
     Add a `<project>.csproj.user` file to your project directory with the following xml:
     ```xml
@@ -43,6 +43,6 @@ When referencing dependencies, there are several things that you should and shou
     </Reference>
     ```
 
-**:material-close: Should Not**:
+**:material-close: Should Not**:\
   1. Include `Assembly-CSharp.dll` in your public repo.\
     Doing so would violate the Demeo EULA and could result in restrictions on the entire modding community.
