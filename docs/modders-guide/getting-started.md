@@ -24,4 +24,5 @@ Add the following section to your `AssemblyInfo.cs` file:
 // Melon Loader
 [assembly: MelonLoader.MelonInfo(typeof(MyDemeoMod.MyDemeoMod), "MyDemeoMod", "0.0.0", "Me!", "https://github.com/Me/MyDemeoMod")]
 [assembly: MelonLoader.MelonGame("Resolution Games", "Demeo")]
+[assembly: MelonPlatform(MelonPlatformAttribute.CompatiblePlatforms.WINDOWS_X64)]
 ```
