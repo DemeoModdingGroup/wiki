@@ -34,7 +34,13 @@ When referencing dependencies, there are several things that you should and shou
   1. Use `$(DemeoDir)`:\
     Add a `<project>.csproj.user` file to your project directory with the following xml:
     ```xml
-    <!-- @todo: write this -->
+    <?xml version="1.0" encoding="utf-8"?>
+    <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+      <PropertyGroup>
+        <!-- Set this to your demeo install path -->
+        <DemeoDir>C:\Program Files (x86)\Steam\steamapps\common\Demeo</DemeoDir>
+      </PropertyGroup>
+    </Project>
     ```
     Now you can reference the game directory in your `.csproj` files like so:
     ```xml
