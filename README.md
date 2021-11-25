@@ -1,6 +1,8 @@
 # Demeo Modding Wiki
 
-This documentation project uses [MkDocs](http://www.mkdocs.org/).
+This documentation project uses [MkDocs](http://www.mkdocs.org/). It is automatically built and hosted at the following URL:
+
+- [https://wiki.demeomods.xyz](https://wiki.demeomods.xyz)
 
 You need the following things installed:
 
