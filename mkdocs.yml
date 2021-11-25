@@ -8,9 +8,14 @@ nav:
     - Demeo Modding Wiki: index.md
     - Code of Conduct: code-of-conduct.md
     - Installing Melon Loader: melon-install.md
+    - Modders Guide: modders-guide/getting-started.md
+    - UnityExplorer Guide: unityexplorer-guide/unityexplorer-tweaking.md
   - Modders Guide:
     - Getting Started: modders-guide/getting-started.md
     - References: modders-guide/references.md
+  - UnityExplorer Guide:
+    - Full Guide: unityexplorer-guide/unityexplorer-tweaking.md
+
 
 theme:
   name: material
