@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://wiki.demeomods.xyz/</loc>
+         <lastmod>2022-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.demeomods.xyz/code-of-conduct/</loc>
+         <lastmod>2022-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.demeomods.xyz/melon-install/</loc>
+         <lastmod>2022-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.demeomods.xyz/modders-guide/getting-started/</loc>
+         <lastmod>2022-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.demeomods.xyz/modders-guide/references/</loc>
+         <lastmod>2022-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.demeomods.xyz/unityexplorer-guide/unityexplorer-tweaking/</loc>
+         <lastmod>2022-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
