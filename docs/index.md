@@ -5,8 +5,9 @@ Please note that this wiki is still in development and may not be complete in so
 In order to ensure compatibility of mods across Demeo the modding community has selected specific utilities for use in developing and loading of mods.
 
 ## MelonLoader
-[LavaGang](https://melonwiki.xyz/#/credits), the MelonLoader developers, have been working directly with Resolution Games to add somewhat of an official modding API to Demeo. All of these features are in the `Boardgame.ModdingAPI` namespace with the main feature being the mod menu which shows what mods you have installed.
-![screenshot of the mod menu](https://i.joezwet.dev/demeo-mod-menu.png)
+[LavaGang](https://melonwiki.xyz/#/credits), the MelonLoader developers, have been working directly with Resolution Games to add somewhat of an official modding API to Demeo. All of these features are in the `Boardgame.ModdingAPI` namespace with the main feature being the mod menu which shows what mods you have installed.\
+
+![screenshot of the mod menu](https://i.joezwet.dev/demeo-mod-menu.png)\
 
 ### Supported Platforms
 This mod loader supports the PC VR client on both Oculus and Steam services.
@@ -21,8 +22,8 @@ If you wish to use another install method you can find the other downloads here:
     Please note that this guide is for the Melon Loader `v0.4.1+` builds of Melon Loader. Check out the Official Melon Loader install guide if you need further assistance [here](https://melonwiki.xyz/#/README?id=automated-installation).
 
 ### Setup MelonLoader
-You will need to execute the [MelonLoader.Installer.exe](https://github.com/LavaGang/MelonLoader/releases/download/v0.5.3/MelonLoader.Installer.exe) from your 'Downloads' folder, you may encounter a Windows Security or Anti-Virus alert that you will need to by-pass in order to run the installer.
-![](https://i.joezwet.dev/hWD9lA8l0N.png)
+You will need to execute the [MelonLoader.Installer.exe](https://github.com/LavaGang/MelonLoader/releases/download/v0.5.3/MelonLoader.Installer.exe) from your 'Downloads' folder, you may encounter a Windows Security or Anti-Virus alert that you will need to by-pass in order to run the installer.\
+![MelonLoader Automated Install](https://i.joezwet.dev/hWD9lA8l0N.png)\
 Once the installer is open you will need to browse to the location of the `demeo.exe` to begin the MelonLoader install. Please 'Select' and navigate to your Demeo installation.
 
 **Typical Install Locations**
